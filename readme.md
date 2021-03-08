@@ -1,2 +1,2 @@
 forward server
-demo v0.11
+demo v0.12
